@@ -1,0 +1,6 @@
+{"op":"c","before":null,"after":{"id":1,"name":"Alice","email":"alice@example.com"},"timestamp":"2025-09-19T10:00:00Z"}
+{"op":"u","before":{"id":1,"name":"Alice","email":"alice@example.com"},"after":{"id":1,"name":"Alice B","email":"aliceb@example.com"},"timestamp":"2025-09-19T10:00:15Z"}
+{"op":"c","before":null,"after":{"id":2,"name":"Bob","email":"bob@example.com"},"timestamp":"2025-09-19T10:02:00Z"}
+{"op":"d","before":{"id":2,"name":"Bob","email":"bob@example.com"},"after":null,"timestamp":"2025-09-19T10:03:00Z"}
+{"op":"u","before":{"id":1,"name":"Alice B","email":"aliceb@example.com"},"after":{"id":1,"name":"Alice C","email":"alicec@example.com"},"timestamp":"2025-09-19T10:04:00Z"}
+{"op":"c","before":null,"after":{"id":3,"name":"LATE","email":"late@example.com"},"timestamp":"2025-09-19T09:59:40Z"}
