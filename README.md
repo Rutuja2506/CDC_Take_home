@@ -79,11 +79,11 @@ Visit http://localhost:8081/
 ### 2.5 Query results in Postgres (via DBeaver or psql)
 
 Connection details:
-- **Host:** localhost  
-- **Port:** 15432  
-- **Database:** postgres  
-- **User:** postgres  
-- **Password:** postgres
+- **Host:** HOSTNAME  
+- **Port:** PORT_NUMER  
+- **Database:** POSTGRES_DB  
+- **User:** POSTGRES_USERNAME  
+- **Password:** POSTGRES_PASSWORD
 
 Ensure the target table exists:
 ```
