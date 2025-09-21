@@ -11,7 +11,7 @@ This project demonstrates a simple **Change Data Capture (CDC) pipeline** using:
 
 Below is the architectural diagram illustrating the data flow and components:
 
-![Architectural Diagram](/cdc_implementation_project/images/CDC_event_streaming.drawio.png)
+![Architectural Diagram](/images/CDC_event_streaming.drawio.png)
 
 # Tech Stack
 
